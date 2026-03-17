@@ -52,6 +52,9 @@
 
 **Solved 50+ Data Structures & Algorithms problems on LeetCode (focused on arrays, strings, hashing, and problem-solving patterns**
 
+🏆 CodeChef: 2★ (Username: k_19)
+🔗 https://www.codechef.com/users/k_19
+
 🔗 LeetCode: https://leetcode.com/kunal_shetiya
 * Strong understanding of:
 
