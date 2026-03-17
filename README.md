@@ -51,6 +51,7 @@
 ## 🧠 Problem Solving
 
 **Solved 50+ Data Structures & Algorithms problems on LeetCode (focused on arrays, strings, hashing, and problem-solving patterns**
+
 🔗 LeetCode: https://leetcode.com/kunal_shetiya
 * Strong understanding of:
 
